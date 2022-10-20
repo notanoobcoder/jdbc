@@ -15,7 +15,7 @@ public class jdbc_example {
 			//establish Connection object
 			Connection conn = DriverManager.getConnection(url, "root", "pancyparkinson@2000");
 			
-			//create a statement object to send to the database
+			//create a Statement object to send to the database
 			
 			Statement statement = conn.createStatement();
 			
