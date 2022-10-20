@@ -21,6 +21,8 @@ insert into employees_tbl values(500,'Beth','Technology',6500);
 insert into employees_tbl values(600,'Peter','HR',5000);
 insert into employees_tbl values(700,'Romeo','Legal',5400);
 
+-- displaying the table
+
 select * from employees_tbl;
 
 +-----+-----------+------------+--------+
