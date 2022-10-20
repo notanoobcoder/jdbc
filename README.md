@@ -7,3 +7,4 @@ The codes uploaded include:
 - the basic connector java code 
 - more codes for insertion, updation and deletion of data using JDBC
 
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
