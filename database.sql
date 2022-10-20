@@ -36,3 +36,16 @@ select * from employees_tbl;
 | 600 | Peter     | HR         |   5000 |
 | 700 | Romeo     | Legal      |   5400 |
 +-----+-----------+------------+--------+
+
+-- UPDATION
+update employees_tbl set salary = 5900 where id = 400;
+
+-- DELETION
+delete from employees_tbl where id = 100;
+
+-- INSERTION
+
+insert into employees_tbl(id, name, dept, salary) values(1200, 'Kaykay', 'HR', 8000)");
+-- OR
+insert into employees_tbl values(1200, 'Kaykay', 'HR', 8000)");
+
